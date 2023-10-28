@@ -4,7 +4,7 @@
 #include <cmath>
 //using namespace std;
 
-FILE *fp1, *fp2;//输出输入文件变量
+FILE *fp1, *fp2;//脢盲鲁枚脢盲脠毛脦脛录镁卤盲脕驴
 int finish,n,m,x,y,count,tot,pan2x,pan2y;
 int row[500],col[500],markx[500],marky[500],flagx[500],flagy[500],tui[500][500];
 double c[500][500],a[500],b[500],ans[500][500],w[500],v[500],eva[500][500];
